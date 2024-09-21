@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 21-year-old, pursuing software development as a career, and very passionate about my future as well
+I am a 21-year-old, pursuing software development as a career....
 
 -  Currently practising DSA in Python (Strivers A2Z DSA Sheet)
 -  🔗First HTML-Only Website: https://adi29m.github.io/html-raw/
