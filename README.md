@@ -2,7 +2,7 @@
 
 I am a 21-year-old, pursuing software development as a career....
 
--  Currently practising DSA in Python (Strivers A2Z DSA Sheet)
--  🔗First HTML-Only Website: https://adi29m.github.io/html-raw/
+-  Currently practising AI Automation using n8n
 -  Reach me: adityammanjrekar@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/aditya-manjarekar-a745b9197/
+-  Website: https://aditya-manjarekar-e8l8hci.gamma.site/
