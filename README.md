@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 21-year-old, pursuing software development as a career....
+I am a 22-year-old, pursuing software development as a career....
 
 -  Currently practising AI Automation using n8n
 -  Reach me: adityammanjrekar@gmail.com
